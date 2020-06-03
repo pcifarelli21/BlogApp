@@ -1,0 +1,11 @@
+i.icon {
+    font-size: 2em;
+}
+
+#newHeader {
+    margin-top: 2.0em;
+}
+
+#delete {
+    display: inline;
+}
